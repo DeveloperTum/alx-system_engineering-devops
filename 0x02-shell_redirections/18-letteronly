@@ -1,2 +1,2 @@
 #!/bin/bin
-tr [:upper:] /etc/ssh/sshd_config
+ grep ^[[:alpaha:]] /etc/ssh/sshd_config
